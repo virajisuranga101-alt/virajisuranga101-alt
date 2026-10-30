@@ -10,7 +10,7 @@ I'm an **Undergraduate (BSc in Physical Science)** with hands-on experience in m
 * ✉️ Open to technical collaborations
 
 * ### Connect with me,
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile"><img src="www.linkedin.com/in/akila-viraj-97b550358"/></a>
 <a href="mailto:virajisuranga101@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### Frontend Web Development
@@ -18,4 +18,4 @@ I'm an **Undergraduate (BSc in Physical Science)** with hands-on experience in m
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 
 ### Tech Stack and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,wordpress,react,nextjs,python,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,wordpress,react,nextjs,python,tailwind,html,css,javascript)](https://skillicons.dev)
