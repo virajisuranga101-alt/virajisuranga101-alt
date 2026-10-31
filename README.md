@@ -15,8 +15,10 @@ I'm an **Undergraduate (BSc in Physical Science)** with hands-on experience in m
 <a href="https://portfolioavi.figma.site/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Portfolio" /></a>
 
 ### Frontend Web Development
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nextjs)](https://skillicons.dev)
+
+### Backend Web Development
+[![My Skills](https://skillicons.dev/icons?i=nestjs,java,mysql,php,mongodb)](https://skillicons.dev)
 
 ### Tech Stack and Tools
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,wordpress,react,nextjs,python,tailwind)](https://skillicons.dev)
