@@ -21,4 +21,4 @@ I'm an **Undergraduate (BSc in Physical Science)** with hands-on experience in m
 [![My Skills](https://skillicons.dev/icons?i=nestjs,java,mysql,php,mongodb)](https://skillicons.dev)
 
 ### Tech Stack and Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,wordpress,react,nextjs,python,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,figma,wordpress,react,nextjs,python,tailwind,c,photoshop)](https://skillicons.dev)
